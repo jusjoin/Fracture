@@ -1,3 +1,3 @@
 # Fracture
 
-Developed with Unreal Engine 4
+Global Game Jam 2021 entry
